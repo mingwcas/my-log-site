@@ -1,0 +1,28 @@
+# 侧边栏配置
+
+[links]
+  # 工作日志
+  [[links.links]]
+    name: "2026年3月"
+    url: "/posts/2026/03/"
+    
+  [[links.links]]
+    name: "2026年2月"
+    url: "/posts/2026/02/"
+
+  # 报告
+  [[links.links]]
+    name: "开发报告"
+    url: "/reports/"
+
+[strings]
+  # 界面文字
+  Search: "搜索"
+  Contents: "目录"
+  Edit: "编辑"
+  SearchResults: "搜索结果"
+  NoResults: "没有找到相关内容"
+  Home: "首页"
+  Categories: "分类"
+  Tags: "标签"
+  Authors: "作者"

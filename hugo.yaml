@@ -1,0 +1,66 @@
+baseURL: https://example.org/
+languageCode: zh-cn
+title: 工作日志
+theme: hugo-book
+
+defaultContentLanguage: zh-cn
+hasCJKLanguage: true
+
+# 启用分类功能
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+params:
+  # 主题设置
+  BookTheme: auto           # 支持 light/dark/auto
+  BookRepo: https://github.com/alex-shpak/hugo-book
+  BookBranch: main
+  BookEditPath: edit/main/content
+  
+  # 导航设置
+  BookPrevNext: true
+  BookSearch: true
+  BookToc: true
+  BookComments: false
+  BookStickySticky: true    # 固定侧边栏
+  
+  # 页面选项
+  BookToC: 3               # 显示3级目录
+  
+  # 网站图标
+  BookFavicon: "/favicon.svg"
+
+# 菜单配置
+menu:
+  before:
+    - name: 首页
+      url: /
+      weight: 1
+    - name: 工作日志
+      url: /posts/
+      weight: 2
+    - name: 报告
+      url: /reports/
+      weight: 3
+    - name: 标签
+      url: /tags/
+      weight: 4
+    - name: 分类
+      url: /categories/
+      weight: 5
+    - name: 关于
+      url: /about/
+      weight: 6
+
+# 输出设置
+outputs:
+  home:
+    - HTML
+    - RSS
+
+# 永久链接设置
+permalinks:
+  posts: /posts/:year/:month/:day/:slug/
+  reports: /reports/:slug/

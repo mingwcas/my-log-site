@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>项目 on 工作日志</title>
+    <link>https://example.org/tags/%E9%A1%B9%E7%9B%AE/</link>
+    <description>Recent content in 项目 on 工作日志</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 网站项目启动</title>
+      <link>https://example.org/posts/2026/03/02/hugo-%E7%BD%91%E7%AB%99%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/2026/03/02/hugo-%E7%BD%91%E7%AB%99%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8/</guid>
+      <description>&lt;h1 id=&#34;hugo-网站项目启动&#34;&gt;Hugo 网站项目启动&lt;a class=&#34;anchor&#34; href=&#34;#hugo-%e7%bd%91%e7%ab%99%e9%a1%b9%e7%9b%ae%e5%90%af%e5%8a%a8&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;今天开始搭建个人工作日志网站。&lt;/p&gt;&#xA;&lt;h2 id=&#34;今日完成&#34;&gt;今日完成&lt;a class=&#34;anchor&#34; href=&#34;#%e4%bb%8a%e6%97%a5%e5%ae%8c%e6%88%90&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 确定使用 Hugo Book 主题&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 安装 Hugo 环境&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 初始化项目结构&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 配置基础导航&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;技术细节&#34;&gt;技术细节&lt;a class=&#34;anchor&#34; href=&#34;#%e6%8a%80%e6%9c%af%e7%bb%86%e8%8a%82&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;选用 Hugo Book 主题的原因：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;简约文档风格&lt;/li&gt;&#xA;&lt;li&gt;侧边栏导航&lt;/li&gt;&#xA;&lt;li&gt;内置搜索&lt;/li&gt;&#xA;&lt;li&gt;深色模式支持&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;明日计划&#34;&gt;明日计划&lt;a class=&#34;anchor&#34; href=&#34;#%e6%98%8e%e6%97%a5%e8%ae%a1%e5%88%92&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 迁移现有报告文件&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 配置搜索功能&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 添加标签系统&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 工作日志</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on 工作日志</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://example.org/tags/hugo/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenClaw</title>
+      <link>https://example.org/tags/openclaw/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/openclaw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ScRNA-Seq</title>
+      <link>https://example.org/tags/scrna-seq/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/scrna-seq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>比亚迪</title>
+      <link>https://example.org/tags/%E6%AF%94%E4%BA%9A%E8%BF%AA/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E6%AF%94%E4%BA%9A%E8%BF%AA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>单细胞测序</title>
+      <link>https://example.org/tags/%E5%8D%95%E7%BB%86%E8%83%9E%E6%B5%8B%E5%BA%8F/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E5%8D%95%E7%BB%86%E8%83%9E%E6%B5%8B%E5%BA%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>电动汽车</title>
+      <link>https://example.org/tags/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>调研</title>
+      <link>https://example.org/tags/%E8%B0%83%E7%A0%94/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E8%B0%83%E7%A0%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>规范</title>
+      <link>https://example.org/tags/%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E8%A7%84%E8%8C%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>静态网站</title>
+      <link>https://example.org/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>空间转录组</title>
+      <link>https://example.org/tags/%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>文档</title>
+      <link>https://example.org/tags/%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E6%96%87%E6%A1%A3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>项目</title>
+      <link>https://example.org/tags/%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E9%A1%B9%E7%9B%AE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小鹏</title>
+      <link>https://example.org/tags/%E5%B0%8F%E9%B9%8F/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E5%B0%8F%E9%B9%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>研究</title>
+      <link>https://example.org/tags/%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://example.org/tags/ai/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bot</title>
+      <link>https://example.org/tags/bot/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/bot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gateway</title>
+      <link>https://example.org/tags/gateway/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/gateway/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>https://example.org/tags/macos/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>https://example.org/tags/node.js/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>STT</title>
+      <link>https://example.org/tags/stt/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/stt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telegram</title>
+      <link>https://example.org/tags/telegram/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/telegram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>测试</title>
+      <link>https://example.org/tags/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>日常</title>
+      <link>https://example.org/tags/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>语音识别</title>
+      <link>https://example.org/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
